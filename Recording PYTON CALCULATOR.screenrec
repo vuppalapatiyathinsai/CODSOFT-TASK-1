@@ -2,7 +2,7 @@
 <mediaClip endTrimDuration="0" startTrimDuration="0" version="1">
 
   <files>
-    <file id="2" path="Data\audio.wav"/>
+    <file id="2" path="Data\audio.wav"/> 
     <file id="1" path="Data\output.1.avi"/>
   </files>
 
